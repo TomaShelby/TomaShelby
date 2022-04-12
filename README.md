@@ -1,4 +1,4 @@
-# Olá eu sou o Tomás Guilherme, criador de conteúdo de programação e tecnologia!
+# Hello, I'm Tomás Guilherme, creator of programming and technology content!
 
 - 👋 Hi, I’m @TomaShelby
 - 👀 I’m interested in ...
